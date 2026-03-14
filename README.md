@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Isuru Prasanna]
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97F0&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Specialist;Cloud+Enthusiast" alt="Typing SVG" />
@@ -50,24 +50,16 @@ I'm a passionate Software Engineer with expertise in building scalable web and m
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  <a href="https://github.com/Amazoft/smart-retailer-v2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasannaluthge&repo=smart-retailer-v2&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/project2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
