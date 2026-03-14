@@ -55,28 +55,6 @@ I'm a passionate Software Engineer with expertise in building scalable web and m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/Amazoft/smart-retailer-v2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prasannaluthge&repo=smart-retailer-v2&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical" />
-  </a>
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
